@@ -1,0 +1,128 @@
+{
+    "Programming Quiz - Python": [
+        {
+            "Question": "Which keyword is used to define a function in Python?",
+            "A)": "func",
+            "B)": "define",
+            "C)": "def",
+            "D)": "function",
+            "CorrectAnswer": "C"
+        },
+        {
+            "Question": "What does the term 'PEP 8' refer to in Python?",
+            "A)": "Python Enhancement Proposal for version 8",
+            "B)": "Python's built-in package for formatting",
+            "C)": "Style guide for Python code",
+            "D)": "Protocol for Python error handling",
+            "CorrectAnswer": "C"
+        },
+        {
+            "Question": "What is the output of `print(type(3.14))` in Python?",
+            "A)": "float",
+            "B)": "int",
+            "C)": "str",
+            "D)": "list",
+            "CorrectAnswer": "A"
+        },
+        {
+            "Question": "How do you comment multiple lines in Python?",
+            "A)": "// This is a comment //",
+            "B)": "/* This is a comment */",
+            "C)": "''' This is a comment '''",
+            "D)": "# This is a comment",
+            "CorrectAnswer": "C"
+        },
+        {
+            "Question": "What method is used to add an item at the end of a list in Python?",
+            "A)": "append()",
+            "B)": "extend()",
+            "C)": "add()",
+            "D)": "insert()",
+            "CorrectAnswer": "A"
+        }
+    ],
+    "General Knowledge": [
+        {
+            "Question": "Which planet is known as the \"Red Planet\"?",
+            "A)": "Earth",
+            "B)": "Mars",
+            "C)": "Jupiter",
+            "D)": "Saturn",
+            "CorrectAnswer": "B"
+        },
+        {
+            "Question": "What is the largest ocean in the world?",
+            "A)": "Indian Ocean",
+            "B)": "Atlantic Ocean",
+            "C)": "Pacific Ocean",
+            "D)": "Arctic Ocean",
+            "CorrectAnswer": "C"
+        },
+        {
+            "Question": "Who painted the Mona Lisa?",
+            "A)": "Michelangelo",
+            "B)": "Leonardo da Vinci",
+            "C)": "Vincent van Gogh",
+            "D)": "Pablo Picasso",
+            "CorrectAnswer": "B"
+        },
+        {
+            "Question": "Which country is known as the \"Land of the Rising Sun\"?",
+            "A)": "China",
+            "B)": "Japan",
+            "C)": "South Korea",
+            "D)": "Thailand",
+            "CorrectAnswer": "B"
+        },
+        {
+            "Question": "What is the capital city of Australia?",
+            "A)": "Sydney",
+            "B)": "Melbourne",
+            "C)": "Perth",
+            "D)": "Canberra",
+            "CorrectAnswer": "D"
+        }
+    ],
+    "English Language": [
+        {
+            "Question": "What is the plural form of \"child\"?",
+            "A)": "childs",
+            "B)": "childes",
+            "C)": "children",
+            "D)": "childs'",
+            "CorrectAnswer": "C"
+        },
+        {
+            "Question": "Choose the correct spelling:",
+            "A)": "Bureaucracy",
+            "B)": "Beurocracy",
+            "C)": "Burocracy",
+            "D)": "Bureucracy",
+            "CorrectAnswer": "A"
+        },
+        {
+            "Question": "What is a synonym for \"happy\"?",
+            "A)": "Sad",
+            "B)": "Angry",
+            "C)": "Joyful",
+            "D)": "Miserable",
+            "CorrectAnswer": "C"
+        },
+        {
+            "Question": "Which word is a verb?",
+            "A)": "House",
+            "B)": "Fast",
+            "C)": "Jump",
+            "D)": "Beautiful",
+            "CorrectAnswer": "C"
+        },
+        {
+            "Question": "Identify the correct sentence:",
+            "A)": "I seen the movie yesterday.",
+            "B)": "I have saw the movie yesterday.",
+            "C)": "I saw the movie yesterday.",
+            "D)": "I did seen the movie yesterday.",
+            "CorrectAnswer": "C"
+        }
+    ]
+}

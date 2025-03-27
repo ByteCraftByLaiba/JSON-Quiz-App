@@ -1,0 +1,12 @@
+{
+    "User": [
+        {
+            "UserName": "Laiba Shahab",
+            "EmailAddress": "l1s22bscs0384@ucp.edu.pk",
+            "userPassword": "Qwerty",
+            "isStudent": "Yes",
+            "totalQuizTaken": 0,
+            "lastScore": 0
+        }
+    ]
+}
